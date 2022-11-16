@@ -1,0 +1,10 @@
+{   
+    "code-runner.executorMap": {
+        "python": ".//venv//Scripts//python.exe",
+    },
+    "code-runner.runInTerminal": true,
+    "autoDocstring.docstringFormat": "sphinx",
+    "autoDocstring.generateDocstringOnEnter": true,
+    "autoDocstring.includeExtendedSummary": true,
+    "autoDocstring.guessTypes": true
+}
