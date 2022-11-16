@@ -4,9 +4,7 @@ import time
 from datetime import datetime, timedelta
 from docx2pdf import convert
 from docxtpl import DocxTemplate
-import os, sys
 import xlwings as xw
-import win32com.client as win32
 from num2words import num2words
 from pathlib import Path, PureWindowsPath
 

@@ -1,4 +1,4 @@
-#!"C:\Users\Luís Andraschko\OneDrive\Documentos\Estágio\Doc Generator\venv\Scripts\python.exe"
+#!"C:\Users\Luís Andraschko\OneDrive\Documentos\Estágio\Doc-Generator\venv\Scripts\python.exe"
 # EASY-INSTALL-ENTRY-SCRIPT: 'docxcompose==1.3.6','console_scripts','docxcompose'
 import re
 import sys
